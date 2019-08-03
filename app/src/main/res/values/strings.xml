@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rescue1122</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">lOGybTUXRJdtndYaDU4yyTRi7F3RPGuFanWWiZHE</string>
+    <string name="back4app_client_key">KEuS7GcfbrKwdj3cVW6ay6XW3hpPwxzFkji1fMwG</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_call_location_maps">Map</string>
+</resources>
